@@ -894,8 +894,8 @@ pre {
   font-style: italic;
 }
 .cid-qr9BnmwTYG {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 60px;
+  padding-bottom: 0px;
   background-color: #f9f9f9;
 }
 .cid-qr9BnmwTYG h3 {
@@ -937,6 +937,8 @@ pre {
   display: -webkit-flex;
   flex-direction: column;
   -webkit-flex-direction: column;
+  flex-direction: column-reverse;
+  -webkit-flex-direction: column-reverse;
 }
 .cid-qqst4xSpJZ {
   padding-top: 90px;
